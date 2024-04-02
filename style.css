@@ -1,3 +1,15 @@
 .font-openSans{
     font-family: "Open Sans", sans-serif;
 }
+
+.header-card{
+    background-image: url('images/header.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+}
+.header-card-bottom{
+    background-image: url('images/headert.png');
+    background-repeat: no-repeat;
+
+}
