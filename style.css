@@ -4,7 +4,6 @@
 
 .header-card{
     background-image: url('images/header.png');
-    background-position: bottom;
     background-repeat: no-repeat;
 
 }
@@ -12,4 +11,9 @@
     background-image: url('images/headert.png');
     background-repeat: no-repeat;
 
+}
+
+.sponsor-container{
+    background-image: url('images/sponsor.png');
+    background-repeat: no-repeat;
 }
